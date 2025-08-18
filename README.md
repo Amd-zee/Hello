@@ -1,3 +1,3 @@
 # Hello
-Just checking GitHub
-Its me Ahmad/
+Just checking GitHub<br>
+It's me, Ahmad.
